@@ -55,7 +55,7 @@ const About = () => {
         finished creating a wealth of custom functions to automate a lot of the
         repetitive and mundane tasks that I would have once done. This proved to
         be immensely beneficial to me and allowed me to continually improve my
-        website and web application in great length. Check out source code to
+        website and web application in great length. View live or Check out source code to
         some of my past projects below.
       </p>
     </>
