@@ -1,0 +1,3 @@
+{
+  "extends": ["react/babel",  "@sanity/eslint-config-studio"]
+}

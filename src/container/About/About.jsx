@@ -50,7 +50,7 @@ const About = () => {
         architecture. I am a hard worker and passionate about what I do. With
         knowledge in most frontend and backend languages such as HTML5, CSS3,
         JAVASCRIPT, ReactJS, NodeJS, I opted to delve more into the web
-        development industry. Nearly two months of solid work and practice into
+        development industry. Nearly eighteen months of solid work and practice into
         it, I recently mastered the art of dynamic page building. I recently
         finished creating a wealth of custom functions to automate a lot of the
         repetitive and mundane tasks that I would have once done. This proved to
