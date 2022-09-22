@@ -10,7 +10,7 @@ const SocialMedia = () => (
     <a href='https://www.linkedin.com/in/uche-monday-275b4820b/' target="_blank">
       <BsLinkedin />
     </a>
-    <a href='https://m.facebook.com/monday.uche1?eav=Afb_NnxlTNNHvuCwLoVdGvF4bBzy4jNyrncf_YtH52QQLGaXGza2oLN6Fd-wvsp8eog&paipv=0'>
+    <a href='https://m.facebook.com/monday.uche1?eav=Afb_NnxlTNNHvuCwLoVdGvF4bBzy4jNyrncf_YtH52QQLGaXGza2oLN6Fd-wvsp8eog&paipv=0' target="_blank">
       <FaFacebookF />
     </a>
   </div>
