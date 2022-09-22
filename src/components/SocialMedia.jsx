@@ -1,18 +1,18 @@
 import React from 'react';
-import { BsTwitter, BsInstagram } from 'react-icons/bs';
+import { BsTwitter, BsLinkedin } from 'react-icons/bs';
 import { FaFacebookF } from 'react-icons/fa';
 
 const SocialMedia = () => (
   <div className="app__social">
-    <div>
+    <a href='https://twitter.com/Uche_kl' target="_blank">
       <BsTwitter />
-    </div>
-    <div>
-      <BsInstagram />
-    </div>
-    <div>
+    </a>
+    <a href='https://www.linkedin.com/in/uche-monday-275b4820b/' target="_blank">
+      <BsLinkedin />
+    </a>
+    <a href='https://m.facebook.com/monday.uche1?eav=Afb_NnxlTNNHvuCwLoVdGvF4bBzy4jNyrncf_YtH52QQLGaXGza2oLN6Fd-wvsp8eog&paipv=0'>
       <FaFacebookF />
-    </div>
+    </a>
   </div>
 );
 
