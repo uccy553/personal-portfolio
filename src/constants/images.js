@@ -33,6 +33,7 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
+import newprofile from '../assets/newprofile.png';
 
 export default {
   email,
@@ -44,6 +45,7 @@ export default {
   flutter,
   git,
   graphql,
+  newprofile,
   html,
   javascript,
   mu5,
