@@ -40,7 +40,7 @@ const Work = () => {
         My Creative <span>Portfolio</span> <br /> <span>Section</span>
       </h2>
       <div className="app__work-filter">
-        {['Next JS', 'CSS', 'Mobile App', 'Vanilla JS' 'React JS', 'All'].map(
+        {['Next JS', 'CSS', 'Mobile App', 'Vanilla JS', 'React JS', 'All'].map(
           (item, index) => (
             <div
               key={index}
